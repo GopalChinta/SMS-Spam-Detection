@@ -1,5 +1,5 @@
 # SMS-Spam-Detection
-# SMS Spam Detection using Machine Learning 🚀
+# SMS Spam Detection using Machine Learning
 
 This project focuses on detecting spam messages using Natural Language Processing (NLP) and Machine Learning. The model is trained using the Naïve Bayes algorithm and evaluated on the SMS Spam Collection dataset.
 
