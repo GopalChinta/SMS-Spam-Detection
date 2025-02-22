@@ -24,5 +24,5 @@ The dataset used is the **SMS Spam Collection**, containing labeled SMS messages
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SMS-Spam-Detection.git
+   git clone https://github.com/GopalChinta/SMS-Spam-Detection.git
    cd SMS-Spam-Detection
